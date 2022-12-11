@@ -1,2 +1,0 @@
-# AQA-diplom
-course project
