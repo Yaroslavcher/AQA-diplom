@@ -4,7 +4,217 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f8bb656-88a9-43f5-984a-59c359f96e5d" name="Changes" comment="" />
+    <list default="true" id="2f8bb656-88a9-43f5-984a-59c359f96e5d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../AQA-courseProject/.gradle/7.5.1/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA-courseProject/.gradle/7.5.1/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA-courseProject/.gradle/7.5.1/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA-courseProject/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA-courseProject/.gradle/7.5.1/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA-courseProject/.gradle/7.5.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA-courseProject/.gradle/7.5.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA-courseProject/.gradle/7.5.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA-courseProject/.gradle/7.5.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA-courseProject/.gradle/7.5.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA-courseProject/.gradle/7.5.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA-courseProject/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA-courseProject/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA-courseProject/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA-courseProject/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA-courseProject/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA-courseProject/artifacts/aqa-shop.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA-courseProject/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA-courseProject/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA-courseProject/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA-courseProject/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA-courseProject/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AQA-courseProject/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/#ib_16384_0.dblwr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/#ib_16384_1.dblwr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/#innodb_redo/#ib_redo10_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/#innodb_redo/#ib_redo11_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/#innodb_redo/#ib_redo12_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/#innodb_redo/#ib_redo13_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/#innodb_redo/#ib_redo14_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/#innodb_redo/#ib_redo15_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/#innodb_redo/#ib_redo16_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/#innodb_redo/#ib_redo17_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/#innodb_redo/#ib_redo18_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/#innodb_redo/#ib_redo19_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/#innodb_redo/#ib_redo20_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/#innodb_redo/#ib_redo21_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/#innodb_redo/#ib_redo22_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/#innodb_redo/#ib_redo23_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/#innodb_redo/#ib_redo24_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/#innodb_redo/#ib_redo25_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/#innodb_redo/#ib_redo26_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/#innodb_redo/#ib_redo27_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/#innodb_redo/#ib_redo28_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/#innodb_redo/#ib_redo29_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/#innodb_redo/#ib_redo30_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/#innodb_redo/#ib_redo31_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/#innodb_redo/#ib_redo32_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/#innodb_redo/#ib_redo33_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/#innodb_redo/#ib_redo34_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/#innodb_redo/#ib_redo35_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/#innodb_redo/#ib_redo36_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/#innodb_redo/#ib_redo37_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/#innodb_redo/#ib_redo38_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/#innodb_redo/#ib_redo39_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/#innodb_redo/#ib_redo40_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/#innodb_redo/#ib_redo9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/#innodb_temp/temp_1.ibt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/#innodb_temp/temp_10.ibt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/#innodb_temp/temp_2.ibt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/#innodb_temp/temp_3.ibt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/#innodb_temp/temp_4.ibt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/#innodb_temp/temp_5.ibt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/#innodb_temp/temp_6.ibt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/#innodb_temp/temp_7.ibt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/#innodb_temp/temp_8.ibt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/#innodb_temp/temp_9.ibt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/auto.cnf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/binlog.000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/binlog.000002" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/binlog.000003" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/binlog.000004" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/binlog.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/ca-key.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/ca.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/client-cert.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/client-key.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/ib_buffer_pool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/ibdata1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/ibtmp1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/mysql.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/mysql/general_log.CSM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/mysql/general_log.CSV" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/mysql/general_log_213.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/mysql/slow_log.CSM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/mysql/slow_log.CSV" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/mysql/slow_log_214.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/accounts_145.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/binary_log_trans_189.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/cond_instances_82.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/data_lock_waits_161.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/data_locks_160.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/error_log_83.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/events_errors_su_139.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/events_errors_su_140.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/events_errors_su_141.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/events_errors_su_142.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/events_errors_su_143.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/events_stages_cu_111.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/events_stages_hi_112.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/events_stages_hi_113.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/events_stages_su_114.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/events_stages_su_115.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/events_stages_su_116.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/events_stages_su_117.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/events_stages_su_118.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/events_statement_119.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/events_statement_120.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/events_statement_121.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/events_statement_122.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/events_statement_123.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/events_statement_124.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/events_statement_125.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/events_statement_126.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/events_statement_127.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/events_statement_128.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/events_statement_129.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/events_statement_130.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/events_transacti_131.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/events_transacti_132.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/events_transacti_133.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/events_transacti_134.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/events_transacti_135.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/events_transacti_136.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/events_transacti_137.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/events_transacti_138.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/events_waits_cur_84.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/events_waits_his_85.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/events_waits_his_86.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/events_waits_sum_87.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/events_waits_sum_88.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/events_waits_sum_89.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/events_waits_sum_90.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/events_waits_sum_91.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/events_waits_sum_92.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/file_instances_93.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/file_summary_by__94.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/file_summary_by__95.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/global_status_181.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/global_variables_184.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/host_cache_96.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/hosts_146.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/keyring_componen_191.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/keyring_keys_152.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/log_status_174.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/memory_summary_b_154.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/memory_summary_b_155.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/memory_summary_b_156.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/memory_summary_b_157.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/memory_summary_g_153.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/metadata_locks_159.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/mutex_instances_97.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/objects_summary__98.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/performance_time_99.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/persisted_variab_187.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/prepared_stateme_175.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/processlist_100.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/replication_appl_165.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/replication_appl_166.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/replication_appl_167.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/replication_appl_168.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/replication_appl_170.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/replication_appl_171.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/replication_asyn_172.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/replication_asyn_173.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/replication_conn_162.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/replication_conn_164.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/replication_grou_163.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/replication_grou_169.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/rwlock_instances_101.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/session_account__151.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/session_connect__150.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/session_status_182.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/session_variable_185.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/setup_actors_102.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/setup_consumers_103.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/setup_instrument_104.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/setup_objects_105.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/setup_threads_106.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/socket_instances_147.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/socket_summary_b_148.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/socket_summary_b_149.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/status_by_accoun_177.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/status_by_host_178.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/status_by_thread_179.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/status_by_user_180.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/table_handles_158.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/table_io_waits_s_107.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/table_io_waits_s_108.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/table_lock_waits_109.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/threads_110.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/tls_channel_stat_190.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/user_defined_fun_188.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/user_variables_b_176.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/users_144.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/variables_by_thr_183.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/performance_schema/variables_info_186.sdi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/private_key.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/public_key.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/server-cert.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/server-key.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/sys/sys_config.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/undo_001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/undo_002" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/netology/diplom/test/BuyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/netology/diplom/test/BuyTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,11 +225,50 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2IlVTnRH2gQvm6jIejP5IZjylzl" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Java/AQA/AQA-4-Selenide&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Java\AQA\AQA-diplom" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -28,8 +277,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670756178213</updated>
+      <workItem from="1675009325003" duration="6176000" />
+      <workItem from="1675077340324" duration="2762000" />
+      <workItem from="1675101661662" duration="2101000" />
+      <workItem from="1675104111652" duration="659000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -41,5 +297,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
