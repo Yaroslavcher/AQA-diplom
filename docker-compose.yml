@@ -8,6 +8,6 @@ services:
       - ./data:/var/lib/mysql
     environment:
       - MYSQL_RANDOM_ROOT_PASSWORD=yes
-      - MYSQL_DATABASE=app
-      - MYSQL_USER=app
+      - MYSQL_DATABASE=database
+      - MYSQL_USER=user
       - MYSQL_PASSWORD=password
