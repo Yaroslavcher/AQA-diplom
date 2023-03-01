@@ -1,4 +1,5 @@
-# 1. Тестовые сценарии [Тестовые сценарии.xlsx](https://github.com/Yaroslavcher/AQA-diplom/files/10207331/default.xlsx)
+# 1. Тестовые сценарии
+[Ссылка](https://docs.google.com/spreadsheets/d/1P-PjIUU3yXNJYhJvM8ZUqNgFNAz91ZCtcAcTBT-AIQE/edit?usp=sharing)
 
 # 2. Используемые инструменты:
 - доступ в Интернет,
